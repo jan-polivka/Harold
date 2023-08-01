@@ -1,8 +1,6 @@
 {
     "compilerOptions": {
-        "moduleResolution": "NodeNext",
         "outDir": "build/src",
-        "target": "ES6"
     },
     "exclude": [
         "**/*.test.ts"
